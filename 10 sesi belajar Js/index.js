@@ -9,7 +9,7 @@ const mahasiswa = [
         nama: "yuuki",
         sekolah: "SMC",
         jurusan: "penghamilan massal",
-        usai: (234, "tahun")
+        usia: (234, "tahun")
     }
 ]
 
